@@ -1,2 +1,2 @@
-# logistic_regression
-Logistic regression model
+# Logistic regression
+Logistic regression model for classification of images for an assignment in an AI-class
